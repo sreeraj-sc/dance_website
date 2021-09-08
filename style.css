@@ -1,5 +1,5 @@
 .coustom{
-    background-color: black;
+    background-color: rgb(27, 26, 26);
 }
 .humburger{
     outline: none;
@@ -11,4 +11,13 @@
     height: 500px;
     background-color: gray;
     margin-top: 5%;
+}
+.left-section{
+    background-color: #3d3d3d;
+}
+.right-section{
+
+}
+.section{
+    background-color: #ffffff;
 }
