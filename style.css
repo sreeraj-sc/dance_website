@@ -21,3 +21,27 @@
 .section{
     background-color: #ffffff;
 }
+.hr-h5{
+    width: 9%;
+    margin-left: 3%;
+}
+.hr-soc{
+    width: 19%;
+    margin-left: 3%;
+}
+.hr-africa{
+    width: 6%;
+    margin-left: 3%; 
+}
+.hr-asia{
+    width: 5%;
+    margin-left: 3%;
+}
+.hr-ame{
+    width: 21%;
+    margin-left: 3%;
+}
+.hr-lat{
+    width: 12%;
+    margin-left: 3%;
+}
