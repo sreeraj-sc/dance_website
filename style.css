@@ -49,8 +49,9 @@
     background: #e3e3e3;
 }
 .hr-lag{
-    width: 25%;
-    border-width: 2px;
+    width: 16%;
+    border-width: 1px;
+    padding-left: 79%;
     
 }
 .hr-footer{
